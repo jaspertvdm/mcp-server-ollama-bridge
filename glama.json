@@ -3,7 +3,7 @@
   "maintainers": [
     "jaspertvdm"
   ],
-  "name": "Ollama Bridge",
+  "name": "Humotica - Ollama Bridge",
   "description": "Bridge to Ollama for local LLM inference via MCP",
   "repository": "https://github.com/jaspertvdm/mcp-server-ollama-bridge",
   "license": "MIT",
