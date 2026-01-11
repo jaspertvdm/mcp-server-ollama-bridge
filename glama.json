@@ -1,11 +1,1 @@
-{
-  "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "maintainers": [
-    "jaspertvdm"
-  ],
-  "name": "Humotica - Ollama Bridge",
-  "description": "Bridge to Ollama for local LLM inference via MCP",
-  "repository": "https://github.com/jaspertvdm/mcp-server-ollama-bridge",
-  "license": "MIT",
-  "homepage": "https://humotica.com"
-}
+{"$schema":"https://glama.ai/mcp/schemas/server.json","maintainers":["jaspertvdm"]}
