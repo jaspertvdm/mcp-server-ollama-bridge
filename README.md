@@ -6,6 +6,10 @@ MCP Server - Bridge to local Ollama LLM server.
 
 Part of the [HumoticaOS](https://humotica.com) / [SymbAIon](https://symbaion.eu) ecosystem.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/jaspertvdm-mcp-server-ollama-bridge).
+
 ## Installation
 
 ```bash
